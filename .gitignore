@@ -1,0 +1,15 @@
+/_build/
+/deps/
+/cover/
+*.ez
+erl_crash.dump
+/hello_otp
+.elixir_ls/
+node_modules/
+dist/
+.angular/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
